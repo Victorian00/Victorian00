@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Victorian00
 - 👀 I’m interested in coding, programming, rockets and planes
 - 🌱 I’m currently learning C++, Python and HTLM
+- 🌱 I have learned Fortran and Matlab
 - 🌱 I’m currently studying Aerospace Engineering at UPM (ETSIAE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me victorianoft.upm@gmail.com
